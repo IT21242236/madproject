@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="what_are_you_looking_for">What are you looking for?</string>
+    <string name="coconut_products">Coconut Products</string>
+    <string name="coconut_based_products">Coconut Based Products</string>
+</resources>
