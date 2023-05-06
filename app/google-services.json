@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001768330084",
+    "project_id": "madproject-bf26d",
+    "storage_bucket": "madproject-bf26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001768330084:android:5a03ed997adb51d263d071",
+        "android_client_info": {
+          "package_name": "com.example.tesing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001768330084-m4db98p09mn84k0cised2bra0fgcgk4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-fm4N2umvpBT4lYcp0NWhTO5rEtAi7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001768330084-m4db98p09mn84k0cised2bra0fgcgk4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
